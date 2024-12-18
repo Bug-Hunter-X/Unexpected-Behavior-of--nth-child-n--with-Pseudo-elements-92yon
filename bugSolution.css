@@ -1,0 +1,1 @@
+Instead of applying `:nth-child(n)` to a pseudo-element, apply styles directly to the element itself, targeting individual elements using more specific selectors where necessary, or use JavaScript for more complex situations.
